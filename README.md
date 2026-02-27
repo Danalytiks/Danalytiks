@@ -10,8 +10,7 @@
 
 Data-driven professional passionate about transforming raw data into actionable insights, with a strong interest in aviation analytics and operational efficiency.  
 
-Completed the TripleTen Data Science Bootcamp with hands-on experience in machine learning, predictive modeling, and end-to-end analytical projects using Python and SQL.
-
+Completed the TripleTen Data Science Bootcamp with practical experience in developing end-to-end machine learning solutions using Python, Pandas, NumPy, Scikit-learn, and Streamlit, including data preprocessing, feature engineering, and model evaluation workflows.
 ---
 
 ## 🛠️ Tech Stack
