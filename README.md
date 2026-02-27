@@ -1,34 +1,54 @@
 # 👋 Hi, I'm Daniela
 
-🎯 Junior Data Scientist | Python | Machine Learning | Data Analytics  
-🌍 International background: Brazil 🇧🇷 & Germany 🇩🇪  
+🎯 Junior Data Scientist  
+🌍 Brazil 🇧🇷 | Germany 🇩🇪  
+📊 Passionate about Data, Machine Learning & Analytics  
 
 ---
 
 ## 💡 About Me
 
-Data-driven professional passionate about transforming raw data into actionable insights.  
-Completed the TripleTen Data Science Bootcamp with hands-on experience in machine learning, statistical analysis, and end-to-end analytical projects.
+Data-driven professional focused on transforming raw data into actionable insights.  
+Completed the TripleTen Data Science Bootcamp with hands-on experience in predictive modeling, statistical analysis, and end-to-end data projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,postgres,git,vscode" />
+</p>
+
+---
+
+## 📊 Core Skills
+
+- Machine Learning  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Model Validation & Cross-Validation  
+- Data Visualization  
+- SQL & Data Querying  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Project 1 – [Project Name]
-Short description of the business problem, techniques used (e.g., regression, classification), and main outcome.
+🔹 Airline Delay Prediction  
+🔹 Customer Classification Model  
 
-### 🔹 Project 2 – [Project Name]
-Short description of the objective, tools applied, and key insights generated.
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/SEU_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:d.glotzbach@outlook.de">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
