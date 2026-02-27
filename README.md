@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=Daniela%20Glotzbach&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=180&section=header&text=Daniela%20Glotzbach&fontSize=30&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0077B5&center=true&vCenter=true&width=600&lines=Junior+Data+Scientist;Machine+Learning;Aviation+Analytics;Data+Driven+Solutions" />
 </p>
 
 
