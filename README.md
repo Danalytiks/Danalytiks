@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=Daniela%20Glotzbach&fontSize=35&fontColor=ffffff" />
+</p>
+
+
 # 👋 Hi, I'm Daniela
 
 🎯 Junior Data Scientist  
