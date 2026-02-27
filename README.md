@@ -17,7 +17,7 @@ Completed the TripleTen Data Science Bootcamp with hands-on experience in machin
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,postgres,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,postgres,git,vscode&perline=7" />
 </p>
 
 ---
