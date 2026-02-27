@@ -27,19 +27,6 @@ Completed the TripleTen Data Science Bootcamp with practical experience in devel
 
 ---
 
-## ✈️ Aviation-Focused Projects
-
-### 🔹 Gaterunner  
-Operational optimization tool designed to support aircraft boarding timing and improve on-time performance based on turnaround time logic.
-
-### 🔹 Airline Delay Prediction  
-Machine learning model to analyze and predict flight delays, identifying key factors impacting operational performance.
-
-### 🔹 Operational Data Analysis  
-Data analysis project focused on identifying inefficiencies and patterns in operational workflows using statistical and ML techniques.
-
----
-
 ## 📊 Core Skills
 
 - Machine Learning  
