@@ -35,7 +35,8 @@ Completed the TripleTen Data Science Bootcamp with hands-on experience in predic
 ## 🚀 Featured Projects
 
 🔹 Airline Delay Prediction  
-🔹 Customer Classification Model  
+🔹 Customer Classification Model
+🔹 Gaterunner App
 
 ---
 
@@ -54,4 +55,4 @@ Completed the TripleTen Data Science Bootcamp with hands-on experience in predic
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielaglotzbach/))
