@@ -17,7 +17,7 @@ Python • Pandas • Scikit-learn • React • TypeScript • SQL
 
 ## 🚀 Current Project
 
-**GateRunner — Aviation Connection Risk Modeling**
+**✈️ GateRunner — Aviation Connection Risk Modeling**
 
 A data-driven application that predicts whether a passenger can safely make a flight connection using probabilistic timing models.
 Currently improving airport timing models and expanding airport datasets.
