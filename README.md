@@ -1,5 +1,13 @@
 # 👋 Hi, I'm Daniela
 
+## 🚀 Current Project
+
+**GateRunner — Aviation Connection Risk Modeling**
+
+A data-driven application that predicts whether a passenger can safely make a flight connection using probabilistic timing models.
+
+🔗 Project: https://github.com/Danalytiks/Gaterunner
+
 🎯 Junior Data Scientist with background in Aviation & Operational Optimization.
 
 ✈️ Aviation analytics — GateRunner
