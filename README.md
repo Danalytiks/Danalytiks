@@ -69,5 +69,10 @@ Completed the TripleTen Data Science Bootcamp, gaining practical experience buil
 
 ---
 
-![Daniela's GitHub stats](assets/github-stats.svg?raw=1)
-![Top Langs](assets/top-langs.svg?raw=1)
+## 📊 GitHub Stats
+![Daniela's GitHub stats](https://raw.githubusercontent.com/Danalytiks/Danalytiks/main/assets/github-stats.svg)
+
+---
+
+## 💻 Most Used Languages
+![Top Langs](https://raw.githubusercontent.com/Danalytiks/Danalytiks/main/assets/top-langs.svg)
