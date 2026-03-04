@@ -69,5 +69,3 @@ Completed the TripleTen Data Science Bootcamp, gaining practical experience buil
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danalytiks&layout=compact)
-
----
