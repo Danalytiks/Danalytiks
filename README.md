@@ -70,11 +70,7 @@ Completed the TripleTen Data Science Bootcamp, gaining practical experience buil
 ---
 
 ## 📊 GitHub Stats
-
-![Daniela's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Danalytiks&show_icons=true)
-
----
+![Daniela's GitHub stats](assets/github-stats.svg)
 
 ## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Danalytiks&layout=compact)
+![Top Langs](assets/top-langs.svg)
