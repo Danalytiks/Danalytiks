@@ -1,11 +1,16 @@
 # 👋 Hi, I'm Daniela
 
 🎯 Junior Data Scientist with background in Aviation & Operational Optimization.
+
 ✈️ Aviation analytics — GateRunner
-🔹 Industrial machine learning — SteelProof  
-🔹 Time series forecasting — Taxi demand prediction 
+
+🔹 Industrial machine learning — SteelProof
+
+🔹 Time series forecasting — Taxi demand prediction
+
 Tech stack:
 Python • Pandas • Scikit-learn • React • TypeScript • SQL
+
 🌍 Brazil 🇧🇷 | Germany 🇩🇪
 
   
