@@ -20,6 +20,7 @@ Python • Pandas • Scikit-learn • React • TypeScript • SQL
 **GateRunner — Aviation Connection Risk Modeling**
 
 A data-driven application that predicts whether a passenger can safely make a flight connection using probabilistic timing models.
+Currently improving airport timing models and expanding airport datasets.
 
 🔗 Project: https://github.com/Danalytiks/Gaterunner
 
