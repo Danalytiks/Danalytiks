@@ -2,7 +2,7 @@ name: Generate profile stats images
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 6 * * *"   # every day 06:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -11,23 +11,32 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Download stats card
+      - name: Download GitHub stats card (PNG)
         run: |
           mkdir -p assets
-          curl -L "https://api.github-readme-stats.vercel.app/api?username=Danalytiks&show_icons=true"
+          curl -L --retry 5 --retry-delay 2 --fail \
+            "https://github-readme-stats.vercel.app/api?username=Danalytiks&show_icons=true&format=png" \
+            -o assets/github-stats.png
+          ls -la assets
+          file assets/github-stats.png
 
-      - name: Download top languages card
+      - name: Download top languages card (PNG)
         run: |
-          curl -L "https://api.github-readme-stats.vercel.app/api/top-langs/?username=Danalytiks&layout=compact"
+          curl -L --retry 5 --retry-delay 2 --fail \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=Danalytiks&layout=compact&format=png" \
+            -o assets/top-langs.png
+          ls -la assets
+          file assets/top-langs.png
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg assets/top-langs.svg
+          git add assets/github-stats.png assets/top-langs.png
           git commit -m "Update profile stats images" || exit 0
           git push
