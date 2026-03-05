@@ -22,7 +22,7 @@ jobs:
 
       - name: Download top languages card
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=Danalytiks&layout=compact" -o assets/top-langs.svg
+          curl -L "https://api.github-readme-stats.vercel.app/api/top-langs/?username=Danalytiks&layout=compact"
 
       - name: Commit and push
         run: |
