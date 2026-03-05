@@ -18,7 +18,7 @@ jobs:
       - name: Download stats card
         run: |
           mkdir -p assets
-          curl -L "https://github-readme-stats.vercel.app/api?username=Danalytiks&show_icons=true" -o assets/github-stats.svg
+          curl -L "https://api.github-readme-stats.vercel.app/api?username=Danalytiks&show_icons=true"
 
       - name: Download top languages card
         run: |
